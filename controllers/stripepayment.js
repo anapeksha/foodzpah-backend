@@ -1,5 +1,6 @@
 const stripeKey = process.env.REACT_APP_STRIPE_KEY;
-const stripe = require( "stripe" )( stripeKey );
+// @ts-ignore
+const Stripe = require( "stripe" )( stripeKey );
 const uuid4 = require( "uuid/v4" );
 
 
