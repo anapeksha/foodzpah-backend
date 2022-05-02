@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This is the backend web server for the frontend located [at](https://github.com/anapeksha/foodzpah-frontend)
+Frontend located @ [here](https://github.com/anapeksha/foodzpah-frontend)
 
 ## Built With
 
@@ -16,7 +16,7 @@ Instructions on how to set up the project.
 
 ### Prerequisites
 
-[Node.js](https://nodejs.org) v16.13.2.
+[Node.js](https://nodejs.org) v16.15.0.
 
   ```sh
   corepack enable
