@@ -11,7 +11,7 @@
     "node": "16.14.2"
   },
   "scripts": {
-    "start": "node app.js"
+    "start": "pm2-runtime start ecosystem.config.js --env production"
   },
   "keywords": [],
   "author": "",
@@ -30,8 +30,11 @@
     "lodash": "^4.17.15",
     "mongoose": "^5.13.13",
     "morgan": "^1.9.1",
-    "nodemon": "^1.19.4",
+    "pm2": "^5.2.0",
     "stripe": "^8.20.0",
     "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }
