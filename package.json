@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "homepage": "https://anapeksha.github.io/foodzpah",
+  "homepage": "https://anapeksha.github.io/foodzpah-frontend",
   "workspaces": [
     "client"
   ],
