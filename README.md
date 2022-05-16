@@ -26,7 +26,7 @@ Instructions on how to set up the project.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/anapeksha/foodzpah-frontend.git
+   git clone https://github.com/anapeksha/foodzpah-backend.git
    ```
 3. Install NPM packages
    ```sh
